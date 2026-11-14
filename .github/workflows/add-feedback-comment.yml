@@ -1,4 +1,4 @@
-name: Add a feedback comment when a discussion gets a related label
+bname: Add a feedback comment when a discussion gets a related label
 
 on:
   discussion:
